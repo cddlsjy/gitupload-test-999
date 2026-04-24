@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Uploader</string>
+    <string name="settings">Settings</string>
+    <string name="upload">Upload</string>
+    <string name="repo_content">Repository</string>
+    <string name="snippets">Snippets</string>
+    <string name="auth">Authentication</string>
+</resources>
